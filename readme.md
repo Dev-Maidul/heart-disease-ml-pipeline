@@ -161,7 +161,7 @@ This repository was developed as part of my undergraduate Machine Learning cours
 **Md. Maidul Islam**
 
 B.Sc. in Computer Science and Technology 
-China University of Petroleum, Beijing
+**China University of Petroleum, Beijing**
 
 **Research Interests**
 
